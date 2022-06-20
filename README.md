@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Austin-Buchanan
+- 👀 I’m interested in integration, middleware, and web development.
+- 🌱 I’m currently learning how to create a REST API and query it with Middleware.
+- 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/austin-buchanan-844398152/
