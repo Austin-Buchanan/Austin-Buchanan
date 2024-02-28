@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Austin-Buchanan
-- 👀 I’m interested in integration, middleware, and web development.
-- 🌱 I’m currently learning how to build Django apps in Python.
+- 👀 I’m interested in API integration, middleware, and web development.
+- 🌱 I’m currently learning how to build desktop applications with the PySimpleGUI library in Python.
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/austin-buchanan-844398152/
