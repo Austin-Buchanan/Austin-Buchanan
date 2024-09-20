@@ -6,4 +6,3 @@ These days I'm working on a few different personal Python projects and learning 
 
 Other links you should check out:
 - You can reach me on LinkedIn at [https://www.linkedin.com/in/austin-buchanan-844398152](https://www.linkedin.com/in/austin-buchanan-844398152)
-- Come see my portfolio website at http://austincodes.online
