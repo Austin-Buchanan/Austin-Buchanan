@@ -1,8 +1,13 @@
 ### Hi, I’m @Austin-Buchanan
 
-I’m a software developer with professional experience coding IIB/ACE integration flows and REST APIs. I started programming in 2019 by making personal web apps with JavaScript, but I quickly became interested in APIs and the movement of data between applications. In 2022 I became an integration developer working primarily with IIB and ACE, although I dabbled in Java development and Python scripting. In January 2024, though, my wife and I decided to move from the Midwest to Washington state to start a new chapter in our lives. I'm now looking for new development work, so feel free to reach out to me if you like what you see here. 
+I’m a software developer with professional experience programming integration flows, REST APIs, and database procedures. 
 
-These days I'm working on a few different personal Python projects and learning how to make games in Godot with C#. 
+My programming career began in 2020 when I started scripting in PowerShell to help automate tasks for an IT helpdesk. 
+I was promoted in 2021 to an application support role where I started writing in SQL for database queries and emergency fixes. 
+In 2022, I moved over to the development side, where I specialized in IIB/ACE integration flows and REST APIs. 
+Since moving halfway across the country in 2024 and taking a new position, I've specialized as an SSIS programmer using SQL and C# to automate various database integrations. 
+
+For my personal projects, I've enjoyed making web apps with JavaScript and Python. I'm currently working on more C# projects that include a 2D RPG game.
 
 Other links you should check out:
 - You can reach me on LinkedIn at [https://www.linkedin.com/in/austin-buchanan-844398152](https://www.linkedin.com/in/austin-buchanan-844398152)
